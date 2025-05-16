@@ -1,0 +1,1 @@
+This repository contains a TensorFlow-based implementation of the U-Net architecture for semantic segmentation. U-Net is a powerful convolutional neural network designed primarily for biomedical image segmentation but is also effective in a variety of other pixel-wise prediction tasks.
