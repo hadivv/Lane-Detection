@@ -4,10 +4,12 @@ This repository contains a deep learning-based lane detection system using a UNe
 Files Overview
 Training.py
 This script is used to train the lane detection model using a dataset from Kaggle.
+
 📦 Kaggle dataset link: [https://www.kaggle.com/datasets/manideep1108/tusimple]
 
 lane_detection_unet2.h5
 This is the trained model file generated from Training.py.
+
 ➕ If you make any changes to the model architecture or dataset, you must retrain it using Training.py.
 
 Video_check.py
