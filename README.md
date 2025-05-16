@@ -29,5 +29,7 @@ Sample video file provided for testing the model.
 requirements.txt
 
 Contains a list of required Python packages.
+
 🔧 Install them using:
+
 pip install -r requirements.txt
